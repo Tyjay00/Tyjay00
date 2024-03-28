@@ -1,4 +1,3 @@
-[![MasterHead](https://fiverr-res.cloudinary.com/images/t_main1,q_auto,f_auto,q_auto,f_auto/gigs/331417334/original/c05caa07a9d1cb6e22ea424f17fea83d109e74d5/be-your-frontend-web-developer-using-react-html-css-bootstrap-javascript.jpg)](http://Tyjay00.io)
 <h1 align="center">Hi 👋, I'm Tyrone Joel</h1>
 <h3 align="center">A passionate Software Developer from Johannesburg</h3>
 <img align="right" alt="Coding" width="400" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExeGM2bTYyZ3E0a2E0ZGFkOHkzcDVpZGZzMzlocnQ2eW5rcm1oaTZhdCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/odTTszSU3M3pb5I9eW/giphy.gif">
