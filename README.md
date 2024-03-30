@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Tyrone Joel</h1>
-<h3 align="center">A passionate Software Developer from Johannesburg</h3>
+<h3 align="center">A Passionate Software Developer From Johannesburg</h3>
 <img align="right" alt="Coding" width="400" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExeGM2bTYyZ3E0a2E0ZGFkOHkzcDVpZGZzMzlocnQ2eW5rcm1oaTZhdCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/odTTszSU3M3pb5I9eW/giphy.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tyjay00&label=Profile%20views&color=0e75b6&style=flat" alt="tyjay00" /> </p>
