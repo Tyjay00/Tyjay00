@@ -4,9 +4,7 @@
 <h3 align="center">Junior Software Engineer</h3>
 <img align="right" alt="Coding" width="400" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExeGM2bTYyZ3E0a2E0ZGFkOHkzcDVpZGZzMzlocnQ2eW5rcm1oaTZhdCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/odTTszSU3M3pb5I9eW/giphy.gif">
 
-- 🔭 I’m currently working on [interactive_website](https://tjkapp.s3.af-south-1.amazonaws.com/index.html)
-
-- 🌱 I’m currently learning **React JS**
+- 🔭 I’m currently working as a Freelancer for a new Start-Up as the Mobile App UI Improvement and API Integration Developer.
 
 - 💬 Ask me about **Web development tools, frameworks & Front-end development techniques**
 
