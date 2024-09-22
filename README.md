@@ -1,7 +1,7 @@
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Tyrone+Joel!;" />
 </h1>
-<h3 align="center">Junior Software Engineer</h3>
+<h3 align="center">Aspiring Full Stack Software Engineer</h3>
 <img align="right" alt="Coding" width="400" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExeGM2bTYyZ3E0a2E0ZGFkOHkzcDVpZGZzMzlocnQ2eW5rcm1oaTZhdCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/odTTszSU3M3pb5I9eW/giphy.gif">
 
 - 🔭 I’m currently working as a Freelancer for a new Start-Up as the Mobile App UI Improvement and API Integration Developer.
