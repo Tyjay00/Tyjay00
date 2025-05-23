@@ -5,17 +5,10 @@
 <img align="right" alt="Coding" width="400" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExeGM2bTYyZ3E0a2E0ZGFkOHkzcDVpZGZzMzlocnQ2eW5rcm1oaTZhdCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/odTTszSU3M3pb5I9eW/giphy.gif">
 
 <h3>👨‍💻 About Me</h3>
-<p>
-  A passionate and curious Full Stack Developer with a focus on building modern, user-friendly web applications.
-</p>
 
-<p>
-  With a background in <strong>Software Engineering</strong> and hands-on experience in both frontend and backend technologies, I enjoy turning ideas into real-world solutions. I'm always learning
-</p>
-
-<p>
-  When I’m not coding, you’ll find me exploring the latest in AI, contributing to projects, or creating content to inspire and educate others. Let's build something impactful together!
-</p>
+- A passionate and curious Full Stack Developer with a focus on building modern, user-friendly web applications.
+- With a background in <strong>Software Engineering</strong> and hands-on experience in both frontend and backend technologies, I enjoy turning ideas into real-world solutions. I'm always learning
+- When I’m not coding, you’ll find me exploring the latest in AI, contributing to projects, or creating content to inspire and educate others. Let's build something impactful together!
 
 
 - 📫 How to reach me **tyronejoel04@gmail.com**
